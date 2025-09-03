@@ -38,6 +38,7 @@ DOMAIN-KEYWORD,cloudflareaccess
 DOMAIN-KEYWORD,spotisongdownloader
 
 # 零散域名/后缀匹配
+DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,wsrv.nl
 DOMAIN-SUFFIX,pan1.me
 DOMAIN-SUFFIX,asus.im
