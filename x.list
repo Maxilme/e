@@ -36,11 +36,6 @@ DOMAIN-SUFFIX,nas
 DOMAIN-SUFFIX,printer
 DOMAIN-SUFFIX,localdomain
 
-# 常用平台/客户端的健康检查（精确）
-DOMAIN,clients4.google.com
-DOMAIN,play.googleapis.com
-DOMAIN,settings-win.data.microsoft.com
-
 # 零散域名/关键词
 DOMAIN-KEYWORD,kkys
 DOMAIN-KEYWORD,cs4k
