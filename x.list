@@ -18,9 +18,7 @@ DOMAIN,webui.huawei.com
 
 # 系统联网检测 / captive portal
 DOMAIN,captive.apple.com
-DOMAIN,clients3.google.com
 DOMAIN,www.msftconnecttest.com
-DOMAIN,connectivitycheck.gstatic.com
 DOMAIN,connectivitycheck.android.com
 
 # 时间同步 / NTP
