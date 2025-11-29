@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,printer
 DOMAIN-SUFFIX,localdomain
 
 # 零散域名/关键词
+DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,kkys
 DOMAIN-KEYWORD,cs4k
 DOMAIN-KEYWORD,czzy
@@ -73,6 +74,7 @@ DOMAIN-KEYWORD,35dbf8d43e6a
 DOMAIN-KEYWORD,spotisongdownloader
 
 # 零散域名/后缀匹配
+DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,22.do
 DOMAIN-SUFFIX,wsrv.nl
 DOMAIN-SUFFIX,pan1.me
