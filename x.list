@@ -2,8 +2,6 @@
 DOMAIN,localhost
 DOMAIN,ip6-loopback
 DOMAIN,ip6-localhost
-DOMAIN-SUFFIX,lan
-DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,home.arpa
 
 # 路由器 / 管理页（精确）
