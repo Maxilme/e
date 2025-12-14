@@ -32,7 +32,6 @@ DOMAIN-SUFFIX,printer
 DOMAIN-SUFFIX,localdomain
 
 # 零散域名/关键词
-DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,kkys
 DOMAIN-KEYWORD,cs4k
 DOMAIN-KEYWORD,czzy
@@ -58,12 +57,14 @@ DOMAIN-KEYWORD,934evf
 DOMAIN-KEYWORD,seedhub
 DOMAIN-KEYWORD,woggpan
 DOMAIN-KEYWORD,67c6c7a
+DOMAIN-KEYWORD,windows
 DOMAIN-KEYWORD,yzzyimg
 DOMAIN-KEYWORD,ffzy888
 DOMAIN-KEYWORD,ijujitv
 DOMAIN-KEYWORD,gamer520
 DOMAIN-KEYWORD,88kanqiu
 DOMAIN-KEYWORD,46d5umpk
+DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,aprelteam
 DOMAIN-KEYWORD,erixaopan
 DOMAIN-KEYWORD,feimao666
@@ -135,6 +136,7 @@ DOMAIN-SUFFIX,xiongdipan.com
 DOMAIN-SUFFIX,erxiaofn.click
 DOMAIN-SUFFIX,u.shytkjgs.com
 DOMAIN-SUFFIX,laoquzhang.com
+DOMAIN-SUFFIX,wns.windows.com
 DOMAIN-SUFFIX,ps.ryzypics.com
 DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,api.nbyjson.top
@@ -150,6 +152,7 @@ DOMAIN-SUFFIX,station.hugai.top
 DOMAIN-SUFFIX,v2025.ddcdnbf.com
 DOMAIN-SUFFIX,obs.yinruifei.com
 DOMAIN-SUFFIX,hhjx.hhplayer.com
+DOMAIN-SUFFIX,notify.windows.com
 DOMAIN-SUFFIX,json02.heimuer.xyz
 DOMAIN-SUFFIX,xn--sss604efuw.com
 DOMAIN-SUFFIX,vip.ffzy-play6.com
