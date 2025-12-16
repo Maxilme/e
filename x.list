@@ -16,7 +16,6 @@ DOMAIN,webui.huawei.com
 
 # 系统联网检测 / captive portal
 DOMAIN,captive.apple.com
-DOMAIN,www.msftconnecttest.com
 DOMAIN,connectivitycheck.android.com
 
 # 时间同步 / NTP
@@ -160,7 +159,6 @@ DOMAIN-SUFFIX,vip.ffzy-play6.com
 DOMAIN-SUFFIX,ppvod01.blbtgg.com
 DOMAIN-SUFFIX,vip.ffzy-play3.com
 DOMAIN-SUFFIX,home.aiporters.com
-DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,cm-10-136.getui.com
 DOMAIN-SUFFIX,pullgz721.qmuiw.com
 DOMAIN-SUFFIX,v202510.ddcdnbf.com
