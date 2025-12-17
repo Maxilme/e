@@ -19,7 +19,7 @@ DOMAIN,captive.apple.com
 DOMAIN,connectivitycheck.android.com
 DOMAIN,msftconnecttest.com
 DOMAIN,www.msftconnecttest.com
-DOMAIN,ipv6.msftconnecttest.com   # 补全，彻底解决解析失败
+DOMAIN,ipv6.msftconnecttest.com
 
 # 时间同步 / NTP
 DOMAIN,time.apple.com
