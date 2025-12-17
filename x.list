@@ -17,6 +17,9 @@ DOMAIN,webui.huawei.com
 # 系统联网检测 / captive portal
 DOMAIN,captive.apple.com
 DOMAIN,connectivitycheck.android.com
+DOMAIN,msftconnecttest.com
+DOMAIN,www.msftconnecttest.com
+DOMAIN,ipv6.msftconnecttest.com   # 补全，彻底解决解析失败
 
 # 时间同步 / NTP
 DOMAIN,time.apple.com
@@ -113,7 +116,6 @@ DOMAIN-SUFFIX,qupanshe.com
 DOMAIN-SUFFIX,i1.vvmp4.com
 DOMAIN-SUFFIX,daiguaji.com
 DOMAIN-SUFFIX,moddroid.com
-DOMAIN-SUFFIX,lobechat.com
 DOMAIN-SUFFIX,gh-proxy.org
 DOMAIN-SUFFIX,so.252035.xyz
 DOMAIN-SUFFIX,img.picbf.com
