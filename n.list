@@ -85,6 +85,7 @@ DOMAIN-KEYWORD,spotisongdownloader
 DOMAIN-SUFFIX,22.do
 DOMAIN-SUFFIX,pan1.me
 DOMAIN-SUFFIX,asus.im
+DOMAIN-SUFFIX,bento.me
 DOMAIN-SUFFIX,xb6v.com
 DOMAIN-SUFFIX,aipan.me
 DOMAIN-SUFFIX,hmxz.org
@@ -112,9 +113,11 @@ DOMAIN-SUFFIX,xlys02.com
 DOMAIN-SUFFIX,lrclib.net
 DOMAIN-SUFFIX,ts.9ia.top
 DOMAIN-SUFFIX,surrit.com
+DOMAIN-SUFFIX,www.asus.im
 DOMAIN-SUFFIX,ghproxy.net
 DOMAIN-SUFFIX,wehugai.com
 DOMAIN-SUFFIX,viptulz.com
+DOMAIN-SUFFIX,www.intel.im
 DOMAIN-SUFFIX,lobechat.com
 DOMAIN-SUFFIX,leijing1.com
 DOMAIN-SUFFIX,123panfx.com
@@ -125,6 +128,7 @@ DOMAIN-SUFFIX,daiguaji.com
 DOMAIN-SUFFIX,gh-proxy.org
 DOMAIN-SUFFIX,opennana.com
 DOMAIN-SUFFIX,gh-proxy.top
+DOMAIN-SUFFIX,moddroid.com
 DOMAIN-SUFFIX,so.252035.xyz
 DOMAIN-SUFFIX,img.picbf.com
 DOMAIN-SUFFIX,tencentapp.cn
@@ -171,17 +175,11 @@ DOMAIN-SUFFIX,home.aiporters.com
 DOMAIN-SUFFIX,cm-10-136.getui.com
 DOMAIN-SUFFIX,pullgz721.qmuiw.com
 DOMAIN-SUFFIX,v202510.ddcdnbf.com
+DOMAIN-SUFFIX,dashboard.render.com
+DOMAIN-SUFFIX,lemonlive25.pages.dev
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,aliyun-oss.bootscup.com
 DOMAIN-SUFFIX,cibn-tos-5g.tvapp.eu.org
 DOMAIN-SUFFIX,fs-im-kefu.7moor-fs1.com
+DOMAIN-SUFFIX,p16-sg-default.akamaized.net
 DOMAIN-SUFFIX,so.xn--m7r412advb92j21st65a.tk
-
-# 【移到W_域或删掉】以下海外域名直连可能打不开
-# 如果你确认直连能用就保留，打不开就删掉（会自动走代理）
-# DOMAIN-SUFFIX,wsrv.nl               ← 荷兰图片代理，直连可能慢
-# DOMAIN-SUFFIX,bento.me              ← 海外个人主页平台
-# DOMAIN-SUFFIX,moddroid.com          ← 海外安卓MOD站
-# DOMAIN-SUFFIX,dashboard.render.com  ← 美国云平台，直连大概率打不开
-# DOMAIN-SUFFIX,lemonlive25.pages.dev ← Cloudflare Pages，可能需代理
-# DOMAIN-SUFFIX,p16-sg-default.akamaized.net ← 新加坡CDN，直连可能不稳
