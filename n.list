@@ -4,7 +4,7 @@ DOMAIN,ip6-loopback
 DOMAIN,ip6-localhost
 DOMAIN-SUFFIX,home.arpa
 
-# 路由器 / 管理页（精确）
+# 路由器 / 管理页
 DOMAIN,ztehome.net
 DOMAIN,myrouter.local
 DOMAIN,asusrouter.com
@@ -14,7 +14,7 @@ DOMAIN,routerlogin.net
 DOMAIN,home.huawei.com
 DOMAIN,webui.huawei.com
 
-# 系统联网检测 / captive portal
+# 系统联网检测
 DOMAIN,captive.apple.com
 DOMAIN,connectivitycheck.android.com
 DOMAIN,msftconnecttest.com
@@ -28,12 +28,22 @@ DOMAIN,time.cloudflare.com
 DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,pool.ntp.org
 
-# 局域网服务 & IoT（后缀匹配）
+# 局域网服务 & IoT
 DOMAIN-SUFFIX,nas
 DOMAIN-SUFFIX,printer
 DOMAIN-SUFFIX,localdomain
 
-# 零散域名/关键词
+# 微软/Windows —— 原来用 DOMAIN-KEYWORD 匹配范围过大
+# 改为精确的 DOMAIN-SUFFIX，避免误伤 windows.net 等Azure域名
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,wns.windows.com
+DOMAIN-SUFFIX,notify.windows.com
+# DOMAIN-KEYWORD,windows —— 会误伤 windows.net（Azure CDN）等大量不相关域名
+# DOMAIN-KEYWORD,microsoft —— 范围过大，改用上面的精确后缀匹配
+
+# 国内应用/影视/资源站 —— 关键词匹配
 DOMAIN-KEYWORD,kkys
 DOMAIN-KEYWORD,cs4k
 DOMAIN-KEYWORD,czzy
@@ -59,28 +69,24 @@ DOMAIN-KEYWORD,934evf
 DOMAIN-KEYWORD,seedhub
 DOMAIN-KEYWORD,woggpan
 DOMAIN-KEYWORD,67c6c7a
-DOMAIN-KEYWORD,windows
 DOMAIN-KEYWORD,yzzyimg
 DOMAIN-KEYWORD,ffzy888
 DOMAIN-KEYWORD,ijujitv
 DOMAIN-KEYWORD,gamer520
 DOMAIN-KEYWORD,88kanqiu
 DOMAIN-KEYWORD,46d5umpk
-DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,aprelteam
 DOMAIN-KEYWORD,erixaopan
 DOMAIN-KEYWORD,feimao666
 DOMAIN-KEYWORD,35dbf8d43e6a
 DOMAIN-KEYWORD,spotisongdownloader
 
-# 零散域名/后缀匹配
+# 国内应用/影视/资源站 —— 后缀匹配
 DOMAIN-SUFFIX,22.do
-DOMAIN-SUFFIX,wsrv.nl
 DOMAIN-SUFFIX,pan1.me
 DOMAIN-SUFFIX,asus.im
 DOMAIN-SUFFIX,xb6v.com
 DOMAIN-SUFFIX,aipan.me
-DOMAIN-SUFFIX,bento.me
 DOMAIN-SUFFIX,hmxz.org
 DOMAIN-SUFFIX,ddys.pro
 DOMAIN-SUFFIX,bttwo.me
@@ -116,7 +122,6 @@ DOMAIN-SUFFIX,ps.aside.top
 DOMAIN-SUFFIX,qupanshe.com
 DOMAIN-SUFFIX,i1.vvmp4.com
 DOMAIN-SUFFIX,daiguaji.com
-DOMAIN-SUFFIX,moddroid.com
 DOMAIN-SUFFIX,gh-proxy.org
 DOMAIN-SUFFIX,opennana.com
 DOMAIN-SUFFIX,gh-proxy.top
@@ -134,7 +139,6 @@ DOMAIN-SUFFIX,hkybqufgh.com
 DOMAIN-SUFFIX,api.ubj83.com
 DOMAIN-SUFFIX,feimao888.fun
 DOMAIN-SUFFIX,suboimage.com
-DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,img1.vbwus.com
 DOMAIN-SUFFIX,y.155p2025.com
 DOMAIN-SUFFIX,xiongdipan.com
@@ -142,7 +146,6 @@ DOMAIN-SUFFIX,erxiaofn.click
 DOMAIN-SUFFIX,u.shytkjgs.com
 DOMAIN-SUFFIX,laoquzhang.com
 DOMAIN-SUFFIX,surrit.mrst.one
-DOMAIN-SUFFIX,wns.windows.com
 DOMAIN-SUFFIX,ps.ryzypics.com
 DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,api.nbyjson.top
@@ -150,7 +153,6 @@ DOMAIN-SUFFIX,vip.imgffzy.com
 DOMAIN-SUFFIX,img.bfzypic.com
 DOMAIN-SUFFIX,bbs.dyyjpro.com
 DOMAIN-SUFFIX,danmu.yhdmjx.com
-DOMAIN-SUFFIX,images.weserv.nl
 DOMAIN-SUFFIX,vip.dytt-img.com
 DOMAIN-SUFFIX,v5.lbv325627.com
 DOMAIN-SUFFIX,vip5.ddyunbo.com
@@ -160,7 +162,6 @@ DOMAIN-SUFFIX,v2024.ddcdnbf.com
 DOMAIN-SUFFIX,v2025.ddcdnbf.com
 DOMAIN-SUFFIX,obs.yinruifei.com
 DOMAIN-SUFFIX,hhjx.hhplayer.com
-DOMAIN-SUFFIX,notify.windows.com
 DOMAIN-SUFFIX,json02.heimuer.xyz
 DOMAIN-SUFFIX,xn--sss604efuw.com
 DOMAIN-SUFFIX,vip.ffzy-play6.com
@@ -170,11 +171,17 @@ DOMAIN-SUFFIX,home.aiporters.com
 DOMAIN-SUFFIX,cm-10-136.getui.com
 DOMAIN-SUFFIX,pullgz721.qmuiw.com
 DOMAIN-SUFFIX,v202510.ddcdnbf.com
-DOMAIN-SUFFIX,dashboard.render.com
-DOMAIN-SUFFIX,lemonlive25.pages.dev
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,aliyun-oss.bootscup.com
 DOMAIN-SUFFIX,cibn-tos-5g.tvapp.eu.org
 DOMAIN-SUFFIX,fs-im-kefu.7moor-fs1.com
-DOMAIN-SUFFIX,p16-sg-default.akamaized.net
 DOMAIN-SUFFIX,so.xn--m7r412advb92j21st65a.tk
+
+# 【移到W_域或删掉】以下海外域名直连可能打不开
+# 如果你确认直连能用就保留，打不开就删掉（会自动走代理）
+# DOMAIN-SUFFIX,wsrv.nl               ← 荷兰图片代理，直连可能慢
+# DOMAIN-SUFFIX,bento.me              ← 海外个人主页平台
+# DOMAIN-SUFFIX,moddroid.com          ← 海外安卓MOD站
+# DOMAIN-SUFFIX,dashboard.render.com  ← 美国云平台，直连大概率打不开
+# DOMAIN-SUFFIX,lemonlive25.pages.dev ← Cloudflare Pages，可能需代理
+# DOMAIN-SUFFIX,p16-sg-default.akamaized.net ← 新加坡CDN，直连可能不稳
