@@ -1,5 +1,5 @@
 ss://YWVzLTI1Ni1jZmI6V2FuZzcwNzY4OEA1NC4xNzcuNDQuMTk3OjEwMzMz#🇺🇸US-SS
-ssr://NTQuMTc3LjQ0LjE5NzoxMDMzMzphdXRoX3NoYTFfdjQ6YWVzLTI1Ni1jZmI6cGxhaW46VjJGdVp6Y3dOelk0T0EvP29iZnNwYXJhbT0mremarks=US-1&group=5Yqg5beeMQ
+ssr://NTQuMTc3LjQ0LjE5NzoxMDMzMzphdXRoX3NoYTFfdjQ6YWVzLTI1Ni1jZmI6cGxhaW46VjJGdVp6Y3dOelk0T0EvP29iZnNwYXJhbT0mZ3JvdXA9NVlxZzViZWVNUQ
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@131.186.63.89:11655/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@168.138.198.7:27560/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@168.138.46.67:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
