@@ -38,8 +38,8 @@ vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@152.69.201.51:15039/?type
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@168.110.57.146:12510/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@151.241.5.124:7000/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
 ss://YWVzLTI1Ni1jZmI6V2FuZzcwNzY4OEA1NC4xNzcuNDQuMTk3OjEwMzMz#🇺🇸US-SS
-ssr://NTQuNjcuMzEuMjEzOjEwMzMzOmF1dGhfc2hhMV92NDphZXMtMjU2LWNmYjpwbGFpbjpVM2t4TWpNME5UWTNPRGsvP29iZnNwYXJhbT0mcmVtYXJrcz1WVk10VTFOU01n
-ssr://NTQuMTc3LjQ0LjE5NzoxMDMzMzphdXRoX3NoYTFfdjQ6YWVzLTI1Ni1jZmI6cGxhaW46VjJGdVp6Y3dOelk0T0EvP29iZnNwYXJhbT0mcmVtYXJrcz1WVk10VTFOUw
+ssr://NTQuNjcuMzEuMjEzOjEwMzMzOmF1dGhfc2hhMV92NDphZXMtMjU2LWNmYjpwbGFpbjpVM2t4TWpNME5UWTNPRGsvP29iZnNwYXJhbT0mcmVtYXJrcz0lRTclQkElQTAlRTclQkElQjglRUYlQkMlQThVUy1TU1I
+ssr://NTQuMTc3LjQ0LjE5NzoxMDMzMzphdXRoX3NoYTFfdjQ6YWVzLTI1Ni1jZmI6cGxhaW46VjJGdVp6Y3dOelk0T0EvP29iZnNwYXJhbT0mcmVtYXJrcz0lRTclQkElQTAlRTclQkElQjglRUYlQkMlQThVUy1TU1Iy
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@43.165.191.25:31491/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@43.165.191.25:57890/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@172.105.201.141:10492/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
