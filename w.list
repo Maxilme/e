@@ -1,7 +1,13 @@
-DOMAIN-SUFFIX,arena.ai
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,vidu.com
-DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,arena.ai
+DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,open.spotify.com
 DOMAIN-SUFFIX,api-v5.anchor.fm
