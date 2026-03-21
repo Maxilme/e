@@ -33,15 +33,12 @@ DOMAIN-SUFFIX,nas
 DOMAIN-SUFFIX,printer
 DOMAIN-SUFFIX,localdomain
 
-# 微软/Windows —— 原来用 DOMAIN-KEYWORD 匹配范围过大
-# 改为精确的 DOMAIN-SUFFIX，避免误伤 windows.net 等Azure域名
+# 微软/Windows —— 原来用 DOMAIN-KEYWORD 匹配范围过大，改为精确的 DOMAIN-SUFFIX，避免误伤 windows.net 等Azure域名
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,wns.windows.com
 DOMAIN-SUFFIX,notify.windows.com
-# DOMAIN-KEYWORD,windows —— 会误伤 windows.net（Azure CDN）等大量不相关域名
-# DOMAIN-KEYWORD,microsoft —— 范围过大，改用上面的精确后缀匹配
 
 # 国内应用/影视/资源站 —— 关键词匹配
 DOMAIN-KEYWORD,kkys
