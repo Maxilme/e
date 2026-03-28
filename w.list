@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,open.spotify.com
 DOMAIN-SUFFIX,api-v5.anchor.fm
+DOMAIN-SUFFIX,store.microsoft.com
 DOMAIN-SUFFIX,creators.spotify.com
 #DOMAIN-SUFFIX,gae2-spclient.spotify.com
 DOMAIN-SUFFIX,v10.events.data.microsoft.com
