@@ -72,6 +72,7 @@ ss://YWVzLTI1Ni1jZmI6V2FuZzcwNzY4OEA1NC4xNzcuNDQuMTk3OjEwMzMz#🇺🇸US-SS
 ss://YWVzLTI1Ni1jZmI6U3kxMjM0NTY3ODlANTQuNjcuMzEuMjEzOjEwMzMz#🇺🇸US-SS2
 ssr://NTQuNjcuMzEuMjEzOjEwMzMzOmF1dGhfc2hhMV92NDphZXMtMjU2LWNmYjpwbGFpbjpVM2t4TWpNME5UWTNPRGsvP29iZnNwYXJhbT0mcmVtYXJrcz04SitIdXZDZmg3aFZVeTFUVTFJ
 ssr://NTQuMTc3LjQ0LjE5NzoxMDMzMzphdXRoX3NoYTFfdjQ6YWVzLTI1Ni1jZmI6cGxhaW46VjJGdVp6Y3dOelk0T0EvP29iZnNwYXJhbT0mcmVtYXJrcz04SitIdXZDZmg3aFZVeTFUVTFJeQ
+vless://d5a17f2f-aa94-4b61-8574-ce0b301f9062@156.238.254.5:23100?encryption=none&fp=chrome&pbk=H0HQU-snRgdfuIYOe9VkVHVn3mFqrHUD8lle55dilxU&security=reality&sid=814a&sni=aws.amazon.com&spx=%2FZe3UW4htD0zHQnh&type=tcp#7r8iq30p
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@157.245.60.179:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=sni.111000.v6.rocks&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.232.161.122:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=sni.111000.v6.rocks&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.176.35.237:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=sni.111000.v6.rocks&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
