@@ -33,7 +33,7 @@ DOMAIN-SUFFIX,nas
 DOMAIN-SUFFIX,printer
 DOMAIN-SUFFIX,localdomain
 
-# 微软/Windows —— 原来用 DOMAIN-KEYWORD 匹配范围过大，改为精确的 DOMAIN-SUFFIX，避免误伤 windows.net 等Azure域名
+# 微软/Windows —— 改为精确的 DOMAIN-SUFFIX，避免误伤 windows.net 等Azure域名
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
@@ -55,6 +55,7 @@ DOMAIN-KEYWORD,miqk
 DOMAIN-KEYWORD,ting
 DOMAIN-KEYWORD,xfdm
 DOMAIN-KEYWORD,wexwp
+DOMAIN-KEYWORD,gitea
 DOMAIN-KEYWORD,sqllq
 DOMAIN-KEYWORD,4kfox
 DOMAIN-KEYWORD,msn87
