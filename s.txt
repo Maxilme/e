@@ -71,7 +71,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.248.94:8443/?type=ws&encrypt
 ss://YWVzLTI1Ni1jZmI6V2FuZzcwNzY4OEA1NC4xNzcuNDQuMTk3OjEwMzMz#🇺🇸US-SS
 ss://YWVzLTI1Ni1jZmI6U3kxMjM0NTY3ODlANTQuNjcuMzEuMjEzOjEwMzMz#🇺🇸US-SS2
 ssr://NTQuMTc3LjQ0LjE5NzoxMDMzMzphdXRoX3NoYTFfdjQ6YWVzLTI1Ni1jZmI6cGxhaW46VjJGdVp6Y3dOelk0T0EvP29iZnNwYXJhbT0mcmVtYXJrcz1VMU5T
-ssr://NTQuNjcuMzEuMjEzOjEwMzMzOmF1dGhfc2hhMV92NDphZXMtMjU2LWNmYjpwbGFpbjpVM2t4TWpNME5UWTNPRGsvP29iZnNwYXJhbT0mcmVtYXJrcz1VMU5TTWc
+ssr://NTQuNjcuMzEuMjEzOjEwMzMzOmF1dGhfc2hhMV92NDphZXMtMjU2LWNmYjpwbGFpbjpVM2t4TWpNME5UWTNPRGsvP29iZnNwYXJhbT0mcmVtYXJrcz04SitIdXZDZmg3aFZVeTFUVTFJ
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@157.245.60.179:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=sni.111000.v6.rocks&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.232.161.122:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=sni.111000.v6.rocks&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.176.35.237:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=sni.111000.v6.rocks&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
