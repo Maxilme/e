@@ -1,6 +1,7 @@
 # 关键词匹配
 DOMAIN-KEYWORD,google
 
+# 后缀匹配
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,vidu.com
 DOMAIN-SUFFIX,grok.com
