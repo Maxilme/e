@@ -5,3 +5,9 @@ ssr://NTQuNjcuMzEuMjEzOjEwMzMzOmF1dGhfc2hhMV92NDphZXMtMjU2LWNmYjpwbGFpbjpVM2t4TW
 hysteria2://00000000-0000-4000-8000-000000000000@sgjia.7511111.xyz:60002?sni=www.bing.com&insecure=0&allowInsecure=0&mport=60002-60008&pinSHA256=25%3A92%3AB7%3A34%3AB9%3AE3%3A12%3A10%3AB8%3ABD%3A1C%3A6F%3A57%3A80%3AF4%3A06%3AE8%3A5A%3AFC%3AFD%3A37%3A41%3ADA%3A04%3A78%3AD4%3AE8%3A17%3A99%3A29%3A72%3ABF#%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%94%B2%E9%AA%A8%E6%96%87-HY2
 hysteria2://547692ed-e774-407d-b2f2-e8f946709540@154.40.43.250:60001?sni=www.bing.com&insecure=0&allowInsecure=0&mport=60001-60005&pinSHA256=0ebf56713f2cec1d46a7e83b578ecae34111be28378f2fe7427016aa89e29275#%E7%BE%8E%E5%9B%BDCN2GIA
 vless://b4a7116c-7f5a-41cd-a001-9a16643daac5@xui.us1.180701.xyz:38882?encryption=none&fp=chrome&pbk=BeMiGQFcnAwC54GDMgo7EEq9jw5LGFqNhhIXZqtP1iM&security=reality&sid=4a23c0bb0e25&sni=blogs.nvidia.com.tw&spx=%2FGJ4rzvcT25OX0t9&type=tcp#vless-111
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.183.141.20:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇯🇵JP_@WangCai_8
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.231.232.67:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇯🇵JP_@WangCai_8
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.176.75.212:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇬🇧GB_@WangCai_8
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.171.204.138:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇬🇧GB_@WangCai_8
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.142.200.142:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇺🇸US_@WangCai_8
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.143.203.119:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇺🇸US_@WangCai_8
