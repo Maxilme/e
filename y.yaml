@@ -1,0 +1,29 @@
+mixed-port: 7890
+allow-lan: true
+mode: rule
+
+proxies:
+  - name: "US-IPIPGO"
+    type: http
+    server: proxy.ipipgo.com
+    port: 31212
+    username: customer-daaf79-country-US
+    password: ff69b908
+
+  - name: "TR-Istanbul-IPIPGO"
+    type: http
+    server: proxy.ipipgo.com
+    port: 31212
+    username: customer-daaf79-country-TR-region-Istanbul
+    password: ff69b908
+
+proxy-groups:
+  - name: "IPIPGO选择"
+    type: select
+    proxies:
+      - US-IPIPGO
+      - TR-Istanbul-IPIPGO
+      - DIRECT
+
+rules:
+  - MATCH,IPIPGO选择
