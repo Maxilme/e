@@ -2,4 +2,4 @@ ss://YWVzLTI1Ni1jZmI6V2FuZzcwNzY4OEA1NC4xNzcuNDQuMTk3OjEwMzMz#🇺🇸US-SS
 ss://YWVzLTI1Ni1jZmI6U3kxMjM0NTY3ODlANTQuNjcuMzEuMjEzOjEwMzMz#🇺🇸US-SS2
 ssr://NTQuMTc3LjQ0LjE5NzoxMDMzMzphdXRoX3NoYTFfdjQ6YWVzLTI1Ni1jZmI6cGxhaW46VjJGdVp6Y3dOelk0T0EvP29iZnNwYXJhbT0mcmVtYXJrcz1VMU5T
 ssr://NTQuNjcuMzEuMjEzOjEwMzMzOmF1dGhfc2hhMV92NDphZXMtMjU2LWNmYjpwbGFpbjpVM2t4TWpNME5UWTNPRGsvP29iZnNwYXJhbT0mcmVtYXJrcz04SitIdXZDZmg3aFZVeTFUVTFJ
-vless://2d5c29e0-5f31-4c86-a142-9643a217d157@54.215.233.209:8443?encryption=none&security=reality&pqv=&type=tcp&sni=www.mysql.com&fp=chrome&pbk=138yxYE0m0eIs7bumAa0qzDGcXQ0yERj3Cet1tnBy2o&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#jckj-VLESS_Reality_Vision
+vless://2d5c29e0-5f31-4c86-a142-9643a217d157@54.215.233.209:8443?encryption=none&security=reality&pqv=&type=tcp&sni=www.mysql.com&fp=chrome&pbk=138yxYE0m0eIs7bumAa0qzDGcXQ0yERj3Cet1tnBy2o&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#jckj-VLESS
