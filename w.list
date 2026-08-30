@@ -8,17 +8,13 @@ DOMAIN-SUFFIX,vidu.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,open.spotify.com
 DOMAIN-SUFFIX,api-v5.anchor.fm
-DOMAIN-SUFFIX,store.microsoft.com
+DOMAIN-SUFFIX,open.spotify.com
 DOMAIN-SUFFIX,creators.spotify.com
-DOMAIN-SUFFIX,v10.events.data.microsoft.com
-DOMAIN-SUFFIX,settings-win.data.microsoft.com
 
 # --- 微软/Outlook 强制走外网代理 ---
 DOMAIN-SUFFIX,live.com
@@ -27,3 +23,5 @@ DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,onestore.ms
 DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,store.microsoft.com
+DOMAIN-SUFFIX,settings-win.data.microsoft.com
