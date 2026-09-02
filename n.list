@@ -34,7 +34,6 @@ DOMAIN-SUFFIX,printer
 DOMAIN-SUFFIX,localdomain
 
 # 微软/Windows —— 精准匹配 Windows 更新、应用商店下载与通知推送
-DOMAIN-SUFFIX,wns.windows.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,notify.windows.com
 DOMAIN-SUFFIX,update.microsoft.com
