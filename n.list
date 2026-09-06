@@ -16,16 +16,16 @@ DOMAIN,webui.huawei.com
 
 # 系统联网检测
 DOMAIN,captive.apple.com
-DOMAIN,connectivitycheck.android.com
 DOMAIN,msftconnecttest.com
 DOMAIN,www.msftconnecttest.com
 DOMAIN,ipv6.msftconnecttest.com
+DOMAIN,connectivitycheck.android.com
 
 # 时间同步 / NTP
+DOMAIN-SUFFIX,ntp.org
 DOMAIN,time.apple.com
 DOMAIN,time.windows.com
 DOMAIN,time.cloudflare.com
-DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,pool.ntp.org
 
 # 局域网服务 & IoT
