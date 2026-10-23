@@ -1,0 +1,28 @@
+# 关键词匹配
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,melost
+DOMAIN-KEYWORD,events.data
+
+# 后缀匹配
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,vidu.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,arena.ai
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,api-v5.anchor.fm
+DOMAIN-SUFFIX,open.spotify.com
+DOMAIN-SUFFIX,creators.spotify.com
+
+# --- 微软/Outlook 强制走外网代理 ---
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,onestore.ms
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,store.microsoft.com
+DOMAIN-SUFFIX,settings-win.data.microsoft.com
