@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,creators.spotify.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,onestore.ms
 DOMAIN-SUFFIX,msftauth.net
+DOMAIN-KEYWORD,events.data
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,settings-win.data.microsoft.com
