@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,update.microsoft.com
 DOMAIN-SUFFIX,download.microsoft.com
 DOMAIN-SUFFIX,store-images.microsoft.com
 
-# 国内 —— 关键词匹配
+# 关键词匹配
 DOMAIN-KEYWORD,qjqq
 DOMAIN-KEYWORD,s01s
 DOMAIN-KEYWORD,vsaa
@@ -78,7 +78,7 @@ DOMAIN-KEYWORD,music-api.gdstudio.xyz
 DOMAIN-KEYWORD,lxmusicapi.onrender.com
 DOMAIN-KEYWORD,api.music.lerd.dpdns.org
 
-# 国内应用/影视/资源站 —— 关键词匹配
+# 关键词匹配
 DOMAIN-KEYWORD,xfd
 DOMAIN-KEYWORD,yzzy
 DOMAIN-KEYWORD,kkys
@@ -141,7 +141,7 @@ DOMAIN-KEYWORD,xn--kivn76b41nnhi
 DOMAIN-KEYWORD,spotisongdownloader
 DOMAIN-KEYWORD,xn--4kq62z5rby2qupq9ub
 
-# 国内应用/影视/资源站 —— 后缀匹配（均已归纳为父级主域，由短到长排序）
+# 后缀匹配
 DOMAIN-SUFFIX,22.do
 DOMAIN-SUFFIX,asus.im
 DOMAIN-SUFFIX,pan1.me
@@ -220,7 +220,7 @@ DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,freecloud.mssg.me
 DOMAIN-SUFFIX,station.hugai.top
 DOMAIN-SUFFIX,dashboard.render.com
-DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,lemonlive25.pages.dev
+DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,p16-sg-default.akamaized.net
 DOMAIN-SUFFIX,so.xn--m7r412advb92j21st65a.tk
