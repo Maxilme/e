@@ -1,28 +1,25 @@
 # 本地域名 / mDNS / 局域网服务
-DOMAIN,localhost
 DOMAIN,ip6-loopback
-DOMAIN,ip6-localhost
+DOMAIN-KEYWORD,localhost
 DOMAIN-SUFFIX,home.arpa
 
-# 路由器 / 管理页
-DOMAIN,ztehome.net
+# 路由器 / 本地管理页
+DOMAIN-KEYWORD,tplink
 DOMAIN,myrouter.local
-DOMAIN,asusrouter.com
-DOMAIN,tplinkwifi.net
-DOMAIN,tplinklogin.net
-DOMAIN,routerlogin.net
 DOMAIN,home.huawei.com
 DOMAIN,webui.huawei.com
+DOMAIN-SUFFIX,ztehome.net
+DOMAIN-SUFFIX,asusrouter.com
+DOMAIN-SUFFIX,routerlogin.net
 
-# 系统联网检测（一条父域覆盖所有 www/ipv6 检测）
+# 系统联网检测
 DOMAIN,captive.apple.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN,connectivitycheck.android.com
 
-# 时间同步 / NTP（一条父域 ntp.org 覆盖全球全量池节点）
+# 时间同步 / NTP
 DOMAIN-SUFFIX,ntp.org
 DOMAIN,time.apple.com
-DOMAIN,time.windows.com
 DOMAIN,time.cloudflare.com
 
 # 局域网服务 & IoT
@@ -30,12 +27,11 @@ DOMAIN-SUFFIX,nas
 DOMAIN-SUFFIX,printer
 DOMAIN-SUFFIX,localdomain
 
-# 微软/Windows —— 精准匹配 Windows 更新、应用商店下载与通知推送（全父域精简）
+# 微软/Windows —— 精准匹配 Windows 更新、应用商店下载（全父域精简）
 DOMAIN-SUFFIX,onestore.ms
-DOMAIN-SUFFIX,wns.windows.com
+DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,mp.microsoft.com
 DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN-SUFFIX,notify.windows.com
 DOMAIN-SUFFIX,store.microsoft.com
 DOMAIN-SUFFIX,update.microsoft.com
 DOMAIN-SUFFIX,download.microsoft.com
@@ -150,21 +146,24 @@ DOMAIN-SUFFIX,22.do
 DOMAIN-SUFFIX,9ia.top
 DOMAIN-SUFFIX,asus.im
 DOMAIN-SUFFIX,pan1.me
-DOMAIN-SUFFIX,mrst.one
 DOMAIN-SUFFIX,aipan.me
 DOMAIN-SUFFIX,bento.me
 DOMAIN-SUFFIX,ddys.pro
 DOMAIN-SUFFIX,dm84.net
 DOMAIN-SUFFIX,hmxz.org
 DOMAIN-SUFFIX,intel.im
+DOMAIN-SUFFIX,mrst.one
+DOMAIN-SUFFIX,aside.top
 DOMAIN-SUFFIX,avnyg.com
 DOMAIN-SUFFIX,cz233.com
 DOMAIN-SUFFIX,gying.net
+DOMAIN-SUFFIX,hugai.top
 DOMAIN-SUFFIX,igdux.top
 DOMAIN-SUFFIX,msnii.com
 DOMAIN-SUFFIX,ok321.com
 DOMAIN-SUFFIX,picbf.com
 DOMAIN-SUFFIX,qmuiw.com
+DOMAIN-SUFFIX,tc.qq.com
 DOMAIN-SUFFIX,ubj83.com
 DOMAIN-SUFFIX,v2pan.com
 DOMAIN-SUFFIX,vbwus.com
@@ -173,24 +172,24 @@ DOMAIN-SUFFIX,xrbsp.com
 DOMAIN-SUFFIX,ydayc.com
 DOMAIN-SUFFIX,yppan.com
 DOMAIN-SUFFIX,yunso.net
-DOMAIN-SUFFIX,aside.top
 DOMAIN-SUFFIX,857kan.com
 DOMAIN-SUFFIX,blbtgg.com
 DOMAIN-SUFFIX,jiexi.news
 DOMAIN-SUFFIX,kelaode.ai
 DOMAIN-SUFFIX,lbapi9.com
 DOMAIN-SUFFIX,lrclib.net
+DOMAIN-SUFFIX,render.com
 DOMAIN-SUFFIX,sd-pic.com
 DOMAIN-SUFFIX,surrit.com
-DOMAIN-SUFFIX,yhdmjx.com
 DOMAIN-SUFFIX,bfzypic.com
 DOMAIN-SUFFIX,ddcdnbf.com
 DOMAIN-SUFFIX,ddyunbo.com
 DOMAIN-SUFFIX,dyyjpro.com
 DOMAIN-SUFFIX,nbyjson.top
+DOMAIN-SUFFIX,ryzypics.com
 DOMAIN-SUFFIX,viptulz.com
 DOMAIN-SUFFIX,wehugai.com
-DOMAIN-SUFFIX,ryzypics.com
+DOMAIN-SUFFIX,yhdmjx.com
 DOMAIN-SUFFIX,123panfx.com
 DOMAIN-SUFFIX,155p2025.com
 DOMAIN-SUFFIX,bootscup.com
@@ -212,6 +211,7 @@ DOMAIN-SUFFIX,feimao888.fun
 DOMAIN-SUFFIX,freecloud.ltd
 DOMAIN-SUFFIX,haimianxz.com
 DOMAIN-SUFFIX,hkybqufgh.com
+DOMAIN-SUFFIX,laoquzhang.com
 DOMAIN-SUFFIX,lbv325627.com
 DOMAIN-SUFFIX,suboimage.com
 DOMAIN-SUFFIX,tencentapp.cn
@@ -219,12 +219,8 @@ DOMAIN-SUFFIX,yinruifei.com
 DOMAIN-SUFFIX,erxiaofn.click
 DOMAIN-SUFFIX,lbv3lb2025.com
 DOMAIN-SUFFIX,xiongdipan.com
-DOMAIN-SUFFIX,laoquzhang.com
-DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,freecloud.mssg.me
-DOMAIN-SUFFIX,station.hugai.top
-DOMAIN-SUFFIX,dashboard.render.com
-DOMAIN-SUFFIX,lemonlive25.pages.dev
 DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN-SUFFIX,lemonlive25.pages.dev
 DOMAIN-SUFFIX,p16-sg-default.akamaized.net
 DOMAIN-SUFFIX,so.xn--m7r412advb92j21st65a.tk
