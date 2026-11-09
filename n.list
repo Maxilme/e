@@ -45,10 +45,10 @@ DOMAIN-SUFFIX,store-images.microsoft.com
 DOMAIN-KEYWORD,qjqq
 DOMAIN-KEYWORD,s01s
 DOMAIN-KEYWORD,vsaa
-DOMAIN-KEYWORD,chksz
 DOMAIN-KEYWORD,317ak
 DOMAIN-KEYWORD,97abc
 DOMAIN-KEYWORD,bugpk
+DOMAIN-KEYWORD,chksz
 DOMAIN-KEYWORD,cyapi
 DOMAIN-KEYWORD,ffapi
 DOMAIN-KEYWORD,oiapi
@@ -60,8 +60,6 @@ DOMAIN-KEYWORD,nxinxz
 DOMAIN-KEYWORD,wwwweb
 DOMAIN-KEYWORD,yaohud
 DOMAIN-KEYWORD,yunmge
-DOMAIN-KEYWORD,aa.cab
-DOMAIN-KEYWORD,nki.pw
 DOMAIN-KEYWORD,toubiec
 DOMAIN-KEYWORD,yuafeng
 DOMAIN-KEYWORD,haitangw
@@ -69,13 +67,20 @@ DOMAIN-KEYWORD,xunhuisi
 DOMAIN-KEYWORD,bileizhen
 DOMAIN-KEYWORD,kangqiovo
 DOMAIN-KEYWORD,liuyunidc
-DOMAIN-KEYWORD,dpdns.org
 DOMAIN-KEYWORD,xn--fiqs8s
-DOMAIN-KEYWORD,dpdns.org
 DOMAIN-KEYWORD,shiqianjiang
 DOMAIN-KEYWORD,yutangxiaowu
-DOMAIN-KEYWORD,gdstudio.xyz
-DOMAIN-KEYWORD,onrender.com
+
+DOMAIN-SUFFIX,aa.cab
+DOMAIN-SUFFIX,nki.pw
+DOMAIN-SUFFIX,dpdns.org
+DOMAIN-SUFFIX,sukimon.me
+DOMAIN-SUFFIX,tenmeng.com
+DOMAIN-SUFFIX,2020818.xyz
+DOMAIN-SUFFIX,gdstudio.xyz
+DOMAIN-SUFFIX,onrender.com
+DOMAIN-SUFFIX,appinstall.life
+DOMAIN-SUFFIX,niuma666bet.buzz
 
 # 关键词匹配
 DOMAIN-KEYWORD,xfd
@@ -142,8 +147,10 @@ DOMAIN-KEYWORD,xn--4kq62z5rby2qupq9ub
 
 # 后缀匹配
 DOMAIN-SUFFIX,22.do
+DOMAIN-SUFFIX,9ia.top
 DOMAIN-SUFFIX,asus.im
 DOMAIN-SUFFIX,pan1.me
+DOMAIN-SUFFIX,mrst.one
 DOMAIN-SUFFIX,aipan.me
 DOMAIN-SUFFIX,bento.me
 DOMAIN-SUFFIX,ddys.pro
@@ -166,6 +173,7 @@ DOMAIN-SUFFIX,xrbsp.com
 DOMAIN-SUFFIX,ydayc.com
 DOMAIN-SUFFIX,yppan.com
 DOMAIN-SUFFIX,yunso.net
+DOMAIN-SUFFIX,aside.top
 DOMAIN-SUFFIX,857kan.com
 DOMAIN-SUFFIX,blbtgg.com
 DOMAIN-SUFFIX,jiexi.news
@@ -174,16 +182,15 @@ DOMAIN-SUFFIX,lbapi9.com
 DOMAIN-SUFFIX,lrclib.net
 DOMAIN-SUFFIX,sd-pic.com
 DOMAIN-SUFFIX,surrit.com
-DOMAIN-SUFFIX,ts.9ia.top
+DOMAIN-SUFFIX,yhdmjx.com
 DOMAIN-SUFFIX,bfzypic.com
 DOMAIN-SUFFIX,ddcdnbf.com
 DOMAIN-SUFFIX,ddyunbo.com
 DOMAIN-SUFFIX,dyyjpro.com
 DOMAIN-SUFFIX,nbyjson.top
-DOMAIN-SUFFIX,ryzypics.com
 DOMAIN-SUFFIX,viptulz.com
 DOMAIN-SUFFIX,wehugai.com
-DOMAIN-SUFFIX,yhdmjx.com
+DOMAIN-SUFFIX,ryzypics.com
 DOMAIN-SUFFIX,123panfx.com
 DOMAIN-SUFFIX,155p2025.com
 DOMAIN-SUFFIX,bootscup.com
@@ -194,7 +201,6 @@ DOMAIN-SUFFIX,leijing1.com
 DOMAIN-SUFFIX,lobechat.com
 DOMAIN-SUFFIX,moddroid.com
 DOMAIN-SUFFIX,opennana.com
-DOMAIN-SUFFIX,ps.aside.top
 DOMAIN-SUFFIX,qupanshe.com
 DOMAIN-SUFFIX,shytkjgs.com
 DOMAIN-SUFFIX,tvapp.eu.org
@@ -206,7 +212,6 @@ DOMAIN-SUFFIX,feimao888.fun
 DOMAIN-SUFFIX,freecloud.ltd
 DOMAIN-SUFFIX,haimianxz.com
 DOMAIN-SUFFIX,hkybqufgh.com
-DOMAIN-SUFFIX,laoquzhang.com
 DOMAIN-SUFFIX,lbv325627.com
 DOMAIN-SUFFIX,suboimage.com
 DOMAIN-SUFFIX,tencentapp.cn
@@ -214,7 +219,7 @@ DOMAIN-SUFFIX,yinruifei.com
 DOMAIN-SUFFIX,erxiaofn.click
 DOMAIN-SUFFIX,lbv3lb2025.com
 DOMAIN-SUFFIX,xiongdipan.com
-DOMAIN-SUFFIX,surrit.mrst.one
+DOMAIN-SUFFIX,laoquzhang.com
 DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,freecloud.mssg.me
 DOMAIN-SUFFIX,station.hugai.top
