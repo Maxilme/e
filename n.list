@@ -41,6 +41,43 @@ DOMAIN-SUFFIX,update.microsoft.com
 DOMAIN-SUFFIX,download.microsoft.com
 DOMAIN-SUFFIX,store-images.microsoft.com
 
+# 国内 —— 关键词匹配
+DOMAIN-KEYWORD,qjqq
+DOMAIN-KEYWORD,s01s
+DOMAIN-KEYWORD,vsaa
+DOMAIN-KEYWORD,317ak
+DOMAIN-KEYWORD,97abc
+DOMAIN-KEYWORD,bugpk
+DOMAIN-KEYWORD,cyapi
+DOMAIN-KEYWORD,ffapi
+DOMAIN-KEYWORD,oiapi
+DOMAIN-KEYWORD,vkeys
+DOMAIN-KEYWORD,zddyr
+DOMAIN-KEYWORD,ceseet
+DOMAIN-KEYWORD,lzmhhh
+DOMAIN-KEYWORD,nxinxz
+DOMAIN-KEYWORD,wwwweb
+DOMAIN-KEYWORD,yaohud
+DOMAIN-KEYWORD,yunmge
+DOMAIN-KEYWORD,toubiec
+DOMAIN-KEYWORD,yuafeng
+DOMAIN-KEYWORD,a.aa.cab
+DOMAIN-KEYWORD,haitangw
+DOMAIN-KEYWORD,xunhuisi
+DOMAIN-KEYWORD,bileizhen
+DOMAIN-KEYWORD,kangqiovo
+DOMAIN-KEYWORD,liuyunidc
+DOMAIN-KEYWORD,api.nki.pw
+DOMAIN-KEYWORD,cp.chksz.top
+DOMAIN-KEYWORD,shiqianjiang
+DOMAIN-KEYWORD,yutangxiaowu
+DOMAIN-KEYWORD,api.chksz.com
+DOMAIN-KEYWORD,zrcdy.dpdns.org
+DOMAIN-KEYWORD,lxmusic.xn--fiqs8s
+DOMAIN-KEYWORD,music-api.gdstudio.xyz
+DOMAIN-KEYWORD,lxmusicapi.onrender.com
+DOMAIN-KEYWORD,api.music.lerd.dpdns.org
+
 # 国内应用/影视/资源站 —— 关键词匹配
 DOMAIN-KEYWORD,xfd
 DOMAIN-KEYWORD,yzzy
@@ -67,10 +104,6 @@ DOMAIN-KEYWORD,xpgtv
 DOMAIN-KEYWORD,ysj77
 DOMAIN-KEYWORD,getui
 DOMAIN-KEYWORD,seedh
-DOMAIN-SUFFIX,97abc
-DOMAIN-SUFFIX,ceseet
-DOMAIN-SUFFIX,wwwweb
-DOMAIN-SUFFIX,xunhuisi
 DOMAIN-KEYWORD,oplist
 DOMAIN-KEYWORD,itunes
 DOMAIN-KEYWORD,libvio
