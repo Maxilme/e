@@ -6,8 +6,6 @@ DOMAIN-SUFFIX,home.arpa
 # 路由器 / 本地管理页
 DOMAIN-KEYWORD,tplink
 DOMAIN,myrouter.local
-DOMAIN,home.huawei.com
-DOMAIN,webui.huawei.com
 DOMAIN-SUFFIX,ztehome.net
 DOMAIN-SUFFIX,asusrouter.com
 DOMAIN-SUFFIX,routerlogin.net
