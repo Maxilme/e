@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,localdomain
 # 微软/Windows —— 精准匹配 Windows 更新、应用商店下载（全父域精简）
 DOMAIN-SUFFIX,onestore.ms
 DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,mp.microsoft.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,store.microsoft.com
